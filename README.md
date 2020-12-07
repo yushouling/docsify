@@ -1,3 +1,6 @@
+作用：将markdown文件做成在线预览的文档。参考：https://www.cnblogs.com/happyone/p/12152566.html
+
+
 <p align="center">
   <a href="https://docsify.js.org">
     <img alt="docsify" src="./docs/_media/icon.svg">
